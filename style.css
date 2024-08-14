@@ -10,7 +10,7 @@ body {
 }
 
 .cabecalho {
-    background-color: rgb(173,216,230);
+    background-color: rgb(70,130,180);
     color: black;
     display: flex;
     justify-content: space-around;
